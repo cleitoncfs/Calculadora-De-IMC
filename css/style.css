@@ -25,7 +25,10 @@ h1, h2 {
     text-align: center;
     margin-bottom: 1rem;
 }
-
+.titulo-principal{
+    background: #007BFF;
+    color:white;
+}
 form {
     max-width: 600px;
     margin: 0 auto;
